@@ -1,0 +1,12 @@
+course = 'mooc-java-programming-ii'
+[exercises."part08-Part08_01.Cubes"]
+id = 87694
+checksum = '4d63abe63a4f6330d0c965763467d894'
+
+[exercises."part08-Part08_02.AverageOfPositiveNumbers"]
+id = 87695
+checksum = '8ed4bf0cca5acfa91e7dffc22b04d204'
+
+[exercises."part08-Part08_03.LiquidContainers"]
+id = 87696
+checksum = '3181aba3d30ba661a3dd84cb2833a8a2'
