@@ -10,3 +10,31 @@ checksum = '8ed4bf0cca5acfa91e7dffc22b04d204'
 [exercises."part08-Part08_03.LiquidContainers"]
 id = 87696
 checksum = '3181aba3d30ba661a3dd84cb2833a8a2'
+
+[exercises."part08-Part08_04.LiquidContainers2"]
+id = 87697
+checksum = '7f6adac608ea18c192a92e4059bee4e3'
+
+[exercises."part08-Part08_05.TodoList"]
+id = 87698
+checksum = 'c2fac7e29d65060ddf600227594a48ea'
+
+[exercises."part08-Part08_06.Nicknames"]
+id = 87699
+checksum = 'dc9521a8165163b8cf2a5b08001adf9e'
+
+[exercises."part08-Part08_07.Abbreviations"]
+id = 87700
+checksum = 'ae165c43cbd651aea95e072cc44602ae'
+
+[exercises."part08-Part08_08.PrintMeMyHashmap"]
+id = 87701
+checksum = 'de54525fc151374134af140195af3ac3'
+
+[exercises."part08-Part08_09.PrintMeAnotherHashmap"]
+id = 87702
+checksum = 'f2cbbf1c95dfbb3aaee17fbf077215a2'
+
+[exercises."part08-Part08_10.IOweYou"]
+id = 87703
+checksum = 'bca630f5fc101f0446e193b20a6252ea'
