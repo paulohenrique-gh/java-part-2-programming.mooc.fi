@@ -38,3 +38,23 @@ checksum = 'f2cbbf1c95dfbb3aaee17fbf077215a2'
 [exercises."part08-Part08_10.IOweYou"]
 id = 87703
 checksum = 'bca630f5fc101f0446e193b20a6252ea'
+
+[exercises."part08-Part08_11.SameDate"]
+id = 87704
+checksum = '3e614f7bf34c8a76f3dae1b39c36ffe4'
+
+[exercises."part08-Part08_12.HashedDate"]
+id = 87705
+checksum = '826133e3cb9f1f9ea1a0b97e0afda7c1'
+
+[exercises."part08-Part08_13.VehicleRegistry"]
+id = 87706
+checksum = 'a88983f88325b71782acfc400fd26edd'
+
+[exercises."part08-Part08_14.DictionaryOfManyTranslations"]
+id = 87707
+checksum = '269d6434dbcee609cf62ac99a5f5d274'
+
+[exercises."part08-Part08_15.StorageFacility"]
+id = 87708
+checksum = 'f4156b4b462db1b643214001ab0fe321'
