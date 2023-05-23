@@ -58,3 +58,15 @@ checksum = '269d6434dbcee609cf62ac99a5f5d274'
 [exercises."part08-Part08_15.StorageFacility"]
 id = 87708
 checksum = 'f4156b4b462db1b643214001ab0fe321'
+
+[exercises."part09-Part09_01.ABC"]
+id = 87709
+checksum = 'ca1955673d4236e491bef329526243a0'
+
+[exercises."part09-Part09_02.PersonAndSubclasses"]
+id = 87710
+checksum = 'd9143bdbfbe5fbf3461daaef7057b782'
+
+[exercises."part09-Part09_03.Warehousing"]
+id = 87711
+checksum = 'f24e392360ec95f9182e8374b793943c'
