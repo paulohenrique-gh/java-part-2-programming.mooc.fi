@@ -70,3 +70,15 @@ checksum = 'd9143bdbfbe5fbf3461daaef7057b782'
 [exercises."part09-Part09_03.Warehousing"]
 id = 87711
 checksum = 'f24e392360ec95f9182e8374b793943c'
+
+[exercises."part09-Part09_04.DifferentKindsOfBoxes"]
+id = 87712
+checksum = '07dbb2bdc6bb69cdfbc0306d73c6089d'
+
+[exercises."part09-Part09_05.TacoBoxes"]
+id = 87713
+checksum = 'c84e350c17cc86e8b13392468309a0fb'
+
+[exercises."part09-Part09_06.InterfaceInABox"]
+id = 87714
+checksum = '554cb02d6be9e0bf27ae80b05e91c7f8'
