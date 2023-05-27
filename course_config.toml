@@ -82,3 +82,19 @@ checksum = 'c84e350c17cc86e8b13392468309a0fb'
 [exercises."part09-Part09_06.InterfaceInABox"]
 id = 87714
 checksum = '554cb02d6be9e0bf27ae80b05e91c7f8'
+
+[exercises."part09-Part09_07.ListAsAMethodParameter"]
+id = 87715
+checksum = 'bb9a21365ed1e5f6ca5fad97d10c7469'
+
+[exercises."part09-Part09_08.MapAsAMethodParameter"]
+id = 87716
+checksum = 'c303f6cbcba339b4525daceb71b4122e'
+
+[exercises."part09-Part09_09.SetAsMethodParameter"]
+id = 87717
+checksum = 'f3f47d44326a302e67c2ea136a9e1da7'
+
+[exercises."part09-Part09_10.OnlineShop"]
+id = 87718
+checksum = 'f5b01d03b816f4aa5e388a2b7cc7bd3f'
