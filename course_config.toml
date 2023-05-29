@@ -98,3 +98,11 @@ checksum = 'f3f47d44326a302e67c2ea136a9e1da7'
 [exercises."part09-Part09_10.OnlineShop"]
 id = 87718
 checksum = 'f5b01d03b816f4aa5e388a2b7cc7bd3f'
+
+[exercises."part09-Part09_11.Herds"]
+id = 87719
+checksum = '263f5d4917edfcaf00c95c4c873e35e4'
+
+[exercises."part09-Part09_12.Animals"]
+id = 87720
+checksum = '1eead9dbee0f1f03e1debb976847298d'
