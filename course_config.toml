@@ -166,3 +166,39 @@ checksum = '88d15046b3988c88eef3636f823ecdf8'
 [exercises."part10-Part10_15.RegularExpressions"]
 id = 87735
 checksum = '11cfe652ab6cc1155a66701c0e66aa47'
+
+[exercises."part10-Part10_16.EnumAndIterator"]
+id = 87736
+checksum = '6593623f1328656dda405073d5070d6b'
+
+[exercises."part10-Part10_17.SortThemCards"]
+id = 87737
+checksum = '6301cfe4dc2ad2348130b131e4f913a1'
+
+[exercises."part11-Part11_01.Customer"]
+id = 87738
+checksum = 'aae56493ee5226e4a760bdcfea5fd658'
+
+[exercises."part11-Part11_02.ABookAndAPlane"]
+id = 87739
+checksum = 'a6497e6628fa0219c718ee893d282dd1'
+
+[exercises."part11-Part11_03.ShowAndTicket"]
+id = 87740
+checksum = 'a796a368861889d060ea3b1e69c1c058'
+
+[exercises."part11-Part11_04.StudentAndUniversity"]
+id = 87741
+checksum = '6e76bdab2095be8d02a1b603c54061df'
+
+[exercises."part11-Part11_05.ThePlayerAndTheBot"]
+id = 87742
+checksum = 'efd1177efee4cfc9a4ca6c665f0858ee'
+
+[exercises."part11-Part11_06.SaveablePerson"]
+id = 87743
+checksum = '6be4be28d0bcd3e4c10e6fa8e9888e40'
+
+[exercises."part11-Part11_07.BiggerClassDiagram"]
+id = 87744
+checksum = '8285b18d1110c94fae521aebaf9a5828'
