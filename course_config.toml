@@ -202,3 +202,23 @@ checksum = '6be4be28d0bcd3e4c10e6fa8e9888e40'
 [exercises."part11-Part11_07.BiggerClassDiagram"]
 id = 87744
 checksum = '8285b18d1110c94fae521aebaf9a5828'
+
+[exercises."part11-Part11_08.FirstPackages"]
+id = 87745
+checksum = '7d45f54869c8c5d19a39459e0a7677cc'
+
+[exercises."part11-Part11_09.TheThreePackages"]
+id = 87746
+checksum = '80dacf2798bbc4ca663bb53a3329ead1'
+
+[exercises."part11-Part11_10.FlightControl"]
+id = 87747
+checksum = '2c9c2067f1f3e9f7c1eea46e8936bddf'
+
+[exercises."part11-Part11_11.ValidatingParameters"]
+id = 87748
+checksum = '59de4473d46a5d3983553a12f7d11fba'
+
+[exercises."part11-Part11_12.SensorsAndTemperature"]
+id = 87749
+checksum = '3d99c815b692e1ef313e022c08f86ecc'
