@@ -246,3 +246,23 @@ checksum = '684050b9a3b6a25a72afd4b818c6f902'
 [exercises."part12-Part12_05.HashMap"]
 id = 87755
 checksum = '83810010e064e23a1c42c1ff9cdaf7cf'
+
+[exercises."part12-Part12_06.Numbers"]
+id = 87756
+checksum = '5e66fe0dce9f2edf8385b59877936fd6'
+
+[exercises."part12-Part12_07.Die"]
+id = 87757
+checksum = '3b90f1281da49db45583025c3cccae62'
+
+[exercises."part12-Part12_08.Lottery"]
+id = 87758
+checksum = '208b91e372fac123e81c8ab7aa806ec8'
+
+[exercises."part12-Part12_09.ArrayAsAString"]
+id = 87759
+checksum = '54d7b9de1bc310bd429f956fcf6b5c3f'
+
+[exercises."part12-Part12_10.MagicSquare"]
+id = 87760
+checksum = '1c8ad818e0a2abb14e1d5a4d6578e247'
