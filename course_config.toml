@@ -266,3 +266,55 @@ checksum = '54d7b9de1bc310bd429f956fcf6b5c3f'
 [exercises."part12-Part12_10.MagicSquare"]
 id = 87760
 checksum = '1c8ad818e0a2abb14e1d5a4d6578e247'
+
+[exercises."part13-Part13_01.MyFirstApplication"]
+id = 87761
+checksum = 'caf2a48398ee15164650f3401adc701b'
+
+[exercises."part13-Part13_02.ButtonAndLabel"]
+id = 87762
+checksum = '944689f177e8d505b07f980ab8a77c21'
+
+[exercises."part13-Part13_03.ButtonAndTextField"]
+id = 87763
+checksum = 'ceb75d06713edf5a67d96038015b76a9'
+
+[exercises."part13-Part13_04.BorderPane"]
+id = 87764
+checksum = '6d6304722e56e98dcacfd215da45e25e'
+
+[exercises."part13-Part13_05.TextStatistics"]
+id = 87765
+checksum = '1c31ed4b87f1e9bd05d7ac44f268aee4'
+
+[exercises."part13-Part13_06.Notifier"]
+id = 87766
+checksum = 'c6871425af4f89b33f2c88619ff66506'
+
+[exercises."part13-Part13_07.TextStatisticsPart2"]
+id = 87767
+checksum = 'b3c4e341132d29d0246799d368d1315d'
+
+[exercises."part13-Part13_08.UserTitle"]
+id = 87768
+checksum = '02312023d087f678c8e8be610f3ce76a'
+
+[exercises."part13-Part13_09.MultipleViews"]
+id = 87769
+checksum = '6e7343f8f3c399c92fd4cd602bcfca81'
+
+[exercises."part13-Part13_10.Greeter"]
+id = 87770
+checksum = 'f763047da18a7a0db06539abde788eb9'
+
+[exercises."part13-Part13_11.Joke"]
+id = 87771
+checksum = 'ecaeb762876099f84acc627802dca396'
+
+[exercises."part13-Part13_12.VocabularyPractice"]
+id = 87772
+checksum = 'd80774b9afa8126b8a1ff24a24726edf'
+
+[exercises."part13-Part13_13.TicTacToe"]
+id = 87773
+checksum = '1f33f07a84c8098ced51667c3e7b6c86'
