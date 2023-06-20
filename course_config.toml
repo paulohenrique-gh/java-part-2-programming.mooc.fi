@@ -318,3 +318,15 @@ checksum = 'd80774b9afa8126b8a1ff24a24726edf'
 [exercises."part13-Part13_13.TicTacToe"]
 id = 87773
 checksum = '1f33f07a84c8098ced51667c3e7b6c86'
+
+[exercises."part14-Part14_01.Shanghai"]
+id = 87774
+checksum = '329c60c77ed03a66bb36413ec1445cdb'
+
+[exercises."part14-Part14_02.FinnishParties"]
+id = 87775
+checksum = '91287462b26a63a1a6d0db4885f8e9b1'
+
+[exercises."part14-Part14_03.SavingsCalculator"]
+id = 87776
+checksum = '108dad184195bce0c445bfa40f3cf56a'
