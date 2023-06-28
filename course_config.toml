@@ -330,3 +330,19 @@ checksum = '91287462b26a63a1a6d0db4885f8e9b1'
 [exercises."part14-Part14_03.SavingsCalculator"]
 id = 87776
 checksum = '108dad184195bce0c445bfa40f3cf56a'
+
+[exercises."part14-Part14_04.UnfairAdvertisement"]
+id = 87777
+checksum = '94a0a204bce235398bb1be8c6802848a'
+
+[exercises."part14-Part14_05.CyclingStatistics"]
+id = 87778
+checksum = 'f5232985975fd535f8361cf90641e9a1'
+
+[exercises."part14-Part14_06.Smiley"]
+id = 87779
+checksum = '3c450f157ea97a6e94bdb12105e101dd'
+
+[exercises."part14-Part14_07.Collage"]
+id = 87780
+checksum = 'a7ba1a85a963e972bc4f005f23af386d'
