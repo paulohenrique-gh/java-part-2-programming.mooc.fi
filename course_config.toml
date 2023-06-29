@@ -346,3 +346,11 @@ checksum = '3c450f157ea97a6e94bdb12105e101dd'
 [exercises."part14-Part14_07.Collage"]
 id = 87780
 checksum = 'a7ba1a85a963e972bc4f005f23af386d'
+
+[exercises."part14-Part14_08.Hurray"]
+id = 87781
+checksum = 'aee737f9d25ba0365efbb2af1bd1ec23'
+
+[exercises."part14-Part14_09.Asteroids"]
+id = 87782
+checksum = 'c5701d88033d100854f17c2a43b1d986'
