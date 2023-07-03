@@ -354,3 +354,7 @@ checksum = 'aee737f9d25ba0365efbb2af1bd1ec23'
 [exercises."part14-Part14_09.Asteroids"]
 id = 87782
 checksum = 'c5701d88033d100854f17c2a43b1d986'
+
+[exercises."part14-Part14_10.Database"]
+id = 87783
+checksum = 'c2224ecde9cd7bf1933de0961474dda7'
